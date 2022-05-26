@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/GitHub da DIO:man_artist:
+# Desafio de Projeto sobre Git/GitHub da DIO :clapper:
 
 
 
